@@ -37,6 +37,7 @@ def condition
   @condition
 end
 def cobble
+  
   puts "Your shoe is as good as new!"
 end
 shoe_condition = "new"
